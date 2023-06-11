@@ -330,7 +330,7 @@ header {
   transform: scale(1.05);
 }
 #contact {
-  background-color: #fff;
+  /* background-color: #fff; */
   /* border: 1px solid var(--main-color); */
   border-radius: 5px;
   display: flex;
