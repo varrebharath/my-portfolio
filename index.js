@@ -1,7 +1,7 @@
 const header = document.querySelector('header');
 const menu = document.querySelector('#menu-icon');
 const navbar = document.querySelector('.navbar');
-const allLinks = document.querySelectorAll('a:link');
+const allLinks = document.querySelectorAll('.main-nav-link');
 
 menu.onclick = () => {
   navbar.classList.toggle('active');
